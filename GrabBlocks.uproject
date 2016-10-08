@@ -3,8 +3,13 @@
 	"EngineAssociation": "4.13",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OculusInput",
+			"Enabled": false
+		}
+	],
 	"TargetPlatforms": [
-		"PS4",
-		"WindowsNoEditor"
+		"Android"
 	]
 }
